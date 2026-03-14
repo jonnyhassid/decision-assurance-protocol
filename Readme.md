@@ -151,27 +151,27 @@ These screens are **illustrative only** and are **not part of the protocol speci
 
 ### Merchant decision page
 
-![Demo platform](reference-ui/dap-demo-platform.png)
+![Demo platform](reference-ui/demo-platform.png)
 
 ### Decision checkpoint
 
-![Checkpoint](reference-ui/dap-checkpoint.png)
+![Checkpoint](reference-ui/decision%20check-point.png)
 
 ### Decision confirmed
 
-![Confirmed](reference-ui/dap-confirmed.png)
+![Confirmed](reference-ui/decision-confirmed.png)
 
 ### Reduced scope
 
-![Reduced scope](reference-ui/dap-reduced-scope.png)
+![Reduced scope](reference-ui/decision-reduced%20scope.png)
 
 ### Deferred decision
 
-![Deferred](reference-ui/dap-deferred.png)
+![Deferred](reference-ui/decision-deferred.png)
 
 ### Decision logs
 
-![Decision logs](reference-ui/dap-decision-log.png)
+![Decision logs](reference-ui/Decision-logs.png)
 
 ---
 
