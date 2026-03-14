@@ -84,7 +84,7 @@ DAP acts as a thin verification layer between **intent and commitment**.
 
 Below is a reference implementation of a decision checkpoint.
 
-![Decision checkpoint](reference-ui/dap-checkpoint.png)
+![Decision checkpoint](reference-ui/decision%20check-point.png)
 
 The checkpoint clarifies:
 
